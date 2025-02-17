@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS
+.DS_Store
+
+# ignore data folders
+cnndm/
+cnndm_train_20/
